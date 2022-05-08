@@ -1,0 +1,12 @@
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/ATframework3demo
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/appsettings.Development.json
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/appsettings.json
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/ATframework3demo.dll
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/ATframework3demo.deps.json
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/ATframework3demo.runtimeconfig.json
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/ATframework3demo.pdb
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/Blazored.Modal.dll
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/Microsoft.JSInterop.WebAssembly.dll
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/Newtonsoft.Json.dll
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/WebDriver.Support.dll
+/Users/anastasia/ATlearning1/ATframework3demo/bin/Debug/publish/WebDriver.dll

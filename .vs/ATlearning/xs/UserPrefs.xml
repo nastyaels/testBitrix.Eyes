@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|Custom">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATframework3demo/PageObjects/StatisticOfVisitsPage.cs">
+    <Files>
+      <File FileName="ATframework3demo/PageObjects/PortalLoginPage.cs" Line="28" Column="47" />
+      <File FileName="ATframework3demo/PageObjects/PortalHomePage.cs" Line="82" Column="44" />
+      <File FileName="ATframework3demo/_Imports.razor" Line="1" Column="1" />
+      <File FileName="ATframework3demo/App.razor" Line="1" Column="1" />
+      <File FileName="ATframework3demo/appsettings.json" Line="1" Column="1" />
+      <File FileName="ATframework3demo/Program.cs" Line="32" Column="1" />
+      <File FileName="ATframework3demo/TestEntities/PortalInfo.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/TestEntities/User.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/HelperMethods.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/Waiters.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/SeleniumFramework/WebItem.cs" Line="103" Column="21" />
+      <File FileName="ATframework3demo/SeleniumFramework/DriverActions.cs" Line="29" Column="65" />
+      <File FileName="ATframework3demo/TestEntities/BitrixEyesBusiness.cs" Line="16" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/CaseCollectionBuilder.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/CaseCollectionGenerator.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/EnvironmentSettings.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/TestCase.cs" Line="67" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/TestCaseStatus.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/TestCaseTreeNode.cs" Line="1" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/LogTools/Log.cs" Line="26" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/LogTools/LogMessageError.cs" Line="12" Column="1" />
+      <File FileName="ATframework3demo/BaseFramework/LogTools/LogMessage.cs" Line="20" Column="1" />
+      <File FileName="ATframework3demo/Pages/TestRunPage/TestRunComponentBase.cs" Line="63" Column="1" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_DeleteBusiness.cs" Line="34" Column="28" />
+      <File FileName="ATframework3demo/PageObjects/StatisticOfVisitsPage.cs" Line="174" Column="51" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_NewLink.cs" Line="31" Column="14" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_DeleteLink.cs" Line="59" Column="1" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_UniqueTAG.cs" Line="36" Column="17" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_SettingsTableVisits.cs" Line="42" Column="29" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_SettingsTableLinks.cs" Line="50" Column="14" />
+      <File FileName="ATframework3demo/PageObjects/StatisticOfLinksPage.cs" Line="59" Column="45" />
+      <File FileName="ATframework3demo/PageObjects/GenerationLinksPage.cs" Line="40" Column="78" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_FilterOfTableLinks.cs" Line="72" Column="14" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_StatisticOfVisits.cs" Line="41" Column="19" />
+      <File FileName="ATframework3demo/PageObjects/PageOfLinkStatistic.cs" Line="23" Column="1" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_FollowingLinksStatistic.cs" Line="34" Column="46" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_NewBusiness.cs" Line="26" Column="1" />
+      <File FileName="ATframework3demo/TestCases/Case_BitrixEyes_UniqueVisits.cs" Line="37" Column="29" />
+      <File FileName="ATframework3demo/PageObjects/LeftMenu.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ATlearning" expanded="True">
+            <Node name="ATframework3demo" expanded="True">
+              <Node name="PageObjects" expanded="True" />
+              <Node name="SeleniumFramework" expanded="True" />
+              <Node name="TestCases" expanded="True" />
+              <Node name="TestEntities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ATframework3demo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/anastasia/Downloads/BitrixQAautomationLearning2022-master/ATlearning/ATframework3demo/bin/Debug</String>
+  </Debugger.DebugSourceFolders>
+</Properties>
